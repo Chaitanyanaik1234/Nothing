@@ -12,6 +12,7 @@
  **this is Bold and Italic**    
  
  ----------------------------------------------
+ **Ordered List**    
  
  1. Vrsec                          
     a. it               
@@ -26,7 +27,7 @@
  
  ---------------------------------------------
      
-**Ordered List**    
+**Unordered List**    
 
 * Git    
 * GitHub    
