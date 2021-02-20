@@ -13,16 +13,16 @@
  
  ----------------------------------------------
  
- A. Vrsec                          
+ 1. Vrsec                          
     a. it               
     b. cse           
        1. C              
        2. Python             
        3. Java              
-   c. mech              
-   d. Ece              
- B. Pvpsit                  
- C. PB sidhartha   
+    c. mech              
+    d. Ece              
+ 2. Pvpsit                  
+ 3. PB sidhartha   
  
  ---------------------------------------------
      
