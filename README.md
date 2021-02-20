@@ -1,5 +1,5 @@
 # Chaitanya
-## Sectiom3
+## Section3
 ### Cse
 #### Vrsec
 ##### Vijayawada
@@ -22,7 +22,9 @@
    c. mech              
    d. Ece              
  B. Pvpsit                  
- C. PB sidhartha             
+ C. PB sidhartha   
+ 
+ ---------------------------------------------
      
 **Ordered List**    
 
