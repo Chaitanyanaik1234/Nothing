@@ -19,8 +19,8 @@
        1. C              
        2. Python             
        3. Java              
-    c. mech              
-    d. Ece              
+    c. mech                 
+    d. Ece                
  2. Pvpsit                  
  3. PB sidhartha   
  
